@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">PhoneticPass</string>
-    <string name="readablePass">ALFA bravo</string>
+    <string name="app_name">OSCARZero</string>
+    <string name="readablePass">OSCAR Zero</string>
     <string name="convertButtonText">Convert to phonetic</string>
-    <string name="autofillHint">paste password here</string>
+    <string name="autofillHint">paste string here</string>
 </resources>
