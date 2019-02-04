@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "net.sparrowfall.jmp.phoneticpass"
+        applicationId "net.sparrowfall.jmp.OSCARZero"
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1
