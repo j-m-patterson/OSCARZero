@@ -1,0 +1,8 @@
+The only user data that this application ever comes into contact with is the text input into its single text field.
+
+This application does not store that data anywhere.  Data entered into the application does not persist through multiple executions.
+
+This application does not send this data anywhere.
+
+This application does not access any other data that may or may not reside in any other applications residing on your device.
+
