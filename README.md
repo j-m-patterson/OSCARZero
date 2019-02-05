@@ -12,7 +12,7 @@ If any of these things have ever been a problem for you, you may want to use thi
 Each directory contains code to do basically the same thing, but on a different platform.
 
 ### Android
-This version, as one might expect is an android app.  
+This version, as one might expect is an android app.  It is also available on the play store from https://play.google.com/store/apps/details?id=net.sparrowfall.jmp.OSCARZero
 
 ### Javascript
 This version is an HTML page with an embedded javascript script.  Paste your password, hit the button, and read off the results.
